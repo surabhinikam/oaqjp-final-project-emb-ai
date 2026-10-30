@@ -1,4 +1,4 @@
-# Repository for final project
+# final project
 Introduction
 
 In this project, we use the embeddable Watson AI libraries to create an emotion detection application.
